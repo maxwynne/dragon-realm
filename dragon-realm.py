@@ -23,7 +23,7 @@ def checkCave(chosenCave):
     print()
     time.sleep(2)
     friendlyCave = random.randint(1, 2)
-    if chosenCave == str(friendlycave):
+    if chosenCave == str(friendlyCave):
             print('Gives you his treasure!')
     else:
             print('Gobbles you down in one bite!')
